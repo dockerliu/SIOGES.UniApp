@@ -3,6 +3,22 @@
 Vue 3、TypeScript、Pinia 的 UniApp CLI 项目，包含桌态、点餐、订单和我的四个移动端 Tab。点餐页按参考图采用左侧分类、右侧菜品列表和底部购物栏布局。
 本项目需要配合后端使用：[SIOGES API地址](https://github.com/dockerliu/SIOGES.Api)
 
+## App移动端预览
+<img width="1080" height="2400" alt="01" src="https://github.com/user-attachments/assets/373e2340-8479-4fa9-9746-47842e7b863f" />
+
+
+<img width="1080" height="2400" alt="02" src="https://github.com/user-attachments/assets/b732d629-2846-4423-be1e-64a2d2cac741" />
+
+<img width="1080" height="2400" alt="03" src="https://github.com/user-attachments/assets/c33cb26c-694b-4d80-b612-972d02b3dbce" />
+<img width="1080" height="2400" alt="04" src="https://github.com/user-attachments/assets/dd3bc00b-48b1-4f32-a4f5-2eec34c0c5cd" />
+
+
+<img width="1080" height="2400" alt="05" src="https://github.com/user-attachments/assets/d60f60f9-1c59-41b6-af9c-1001f2b092ef" />
+<img width="1080" height="2400" alt="06" src="https://github.com/user-attachments/assets/ba242c2b-8b17-424e-8b07-263614e45f52" />
+
+<img width="1080" height="2400" alt="07" src="https://github.com/user-attachments/assets/24b19eb8-561b-434a-a237-4d409d58d187" />
+
+
 ## H5 预览
 
 1. 在 HBuilderX 导入 `SIOGES.UniApp` 目录，或在项目目录运行 `npm install`。
