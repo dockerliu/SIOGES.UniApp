@@ -1,6 +1,7 @@
 # SIOGES UniApp 点餐客户端
 
 Vue 3、TypeScript、Pinia 的 UniApp CLI 项目，包含桌态、点餐、订单和我的四个移动端 Tab。点餐页按参考图采用左侧分类、右侧菜品列表和底部购物栏布局。
+本项目需要配合后端使用：[SIOGES API地址](https://github.com/dockerliu/SIOGES.Api)
 
 ## H5 预览
 
